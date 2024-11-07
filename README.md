@@ -1,4 +1,4 @@
 # Student-Demo
 This is a demo repository
 <br>
-Aurthor- Jigme
+Aurthor- Jigme Lepcha
